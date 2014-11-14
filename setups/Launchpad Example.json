@@ -1,0 +1,1 @@
+{"node":"setup","controllers":[{"node":"controller/launchpad","chunkPositions":{"bass":[0,0],"drums":[7,0],"synth":[1,0]}}],"chunks":[{"node":"external","id":"bass","src":"chunks/bass.json"},{"node":"external","id":"drums","src":"chunks/drums.json"},{"node":"external","id":"synth","src":"chunks/synth.json"}],"selectedChunkId":"bass"}
